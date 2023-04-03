@@ -1,9 +1,26 @@
-### Hi there 👋
+
+
+<!--
+## 👩‍💻  About me
+
+My name is Nat and I'm a Brazilian Computer Science undergraduate and aspiring IOS developer. I'm passionate about creating engaging applications, and I'm always eager to expand my knowledge and explore new ways to create innovative solutions. 
+
+
+
+## 📬  Contact me
+
+
+## Skills
+
+## Projects
+
+Projects
+
+-->
 
 <!--
 **nataliadpizzol/nataliadpizzol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
