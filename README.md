@@ -1,22 +1,19 @@
 
 
-<!--
+
 ## 👩‍💻  About me
 
-My name is Nat and I'm a Brazilian Computer Science undergraduate and aspiring IOS developer. I'm passionate about creating engaging applications, and I'm always eager to expand my knowledge and explore new ways to create innovative solutions. 
+My name is Nat and I'm a Brazilian Computer Science undergraduate and aspiring IOS developer. I enjoy creating engaging applications, and I'm always eager to expand my knowledge and explore new ways to create innovative solutions. 
+
+I'm also passionate about promoting diversity, equality, and inclusion in the field of computer science, and I love to meet and share knowledge with other women in tech!
 
 
 
-## 📬  Contact me
 
 
-## Skills
 
-## Projects
 
-Projects
 
--->
 
 <!--
 **nataliadpizzol/nataliadpizzol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
